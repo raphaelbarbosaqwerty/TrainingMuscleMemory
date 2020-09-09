@@ -1,0 +1,8 @@
+{
+  "name": "smartMoney",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "app_id": ""
+}

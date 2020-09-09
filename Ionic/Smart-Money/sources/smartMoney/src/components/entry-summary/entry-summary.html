@@ -1,0 +1,17 @@
+<ion-card>
+    <ion-card-header>Categorias</ion-card-header>
+    <ion-card-content>
+      <ion-item *ngIf="entries.length == 0" text-center>Ops... Sem informação para exibir aqui :(</ion-item>
+  
+      <entry-summary-chart *ngIf="entries.length > 0" [entries]="entries"></entry-summary-chart>
+    </ion-card-content>
+    <ion-item *ngIf="showActions">
+      <ion-note>Últimos 7 dias</ion-note>
+      <button ion-button icon-start clear item-end (click)="showReport()">
+        <ion-icon name="analytics"></ion-icon>
+        Ver Mais
+      </button>
+    </ion-item>
+  </ion-card>
+  
+  

@@ -1,0 +1,11 @@
+page-home {
+    .home-container {
+        padding-top: 30vh;
+    }
+}
+
+@media all and (orientation:landscape) {
+    .home-container {
+        padding-top: 50vh !important;
+    }
+}

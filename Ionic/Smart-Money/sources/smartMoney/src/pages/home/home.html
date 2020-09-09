@@ -1,0 +1,13 @@
+<balance-panel [currentBalance]="currentBalance"
+               [entries]="entriesByData">
+</balance-panel>
+
+<ion-content (ionScroll)="onScroll($event)">
+  <div class="home-container">
+    <entry-empty *ngIf="lastEntries.length == 0"></entry-empty>
+    <entry-summary *ngIf="lastEntries.length > 0" [entries]="entriesByCategory"
+                   [showActions]="true"></entry-summary>
+    <entry-list *ngIf="lastEntries.length > 0" [entries]="lastEntries"
+                [showActions]="true"></entry-list>
+  </div>
+</ion-content>

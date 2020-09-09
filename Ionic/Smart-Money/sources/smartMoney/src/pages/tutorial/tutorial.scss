@@ -1,0 +1,43 @@
+page-tutorial {
+    .logo {
+      margin: 0 0 25px 0;
+    }
+  
+    h1, h2, h3, p {
+      color: color($colors, white);
+    }
+    h1.title {
+      font-size: 3rem;
+    }
+  
+    form {
+      p {
+        margin-bottom: 3rem;
+      }
+  
+      input {
+        display: inline-block;
+        outline: none;
+        appearance: none;
+        cursor: pointer;
+        background-color: color($colors, asphalt);
+        border-radius: 5px;
+        border: none;
+        color: color($colors, white);
+        font-size: 3.8rem;
+        width: 90%;
+        padding: 18px 22px;
+      }
+  
+      input {
+        text-align: right;
+      }
+    }
+  
+    .error {
+      color: color($colors, white);
+      margin: 0;
+      margin-top: -10px;
+    }
+  }
+  
