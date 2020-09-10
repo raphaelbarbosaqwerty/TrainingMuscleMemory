@@ -1,0 +1,550 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BB7BD56523ABD5AC00FE63BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7BD56423ABD5AC00FE63BF /* AppDelegate.swift */; };
+		BB7BD56723ABD5AC00FE63BF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7BD56623ABD5AC00FE63BF /* SceneDelegate.swift */; };
+		BB7BD56923ABD5AC00FE63BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7BD56823ABD5AC00FE63BF /* ViewController.swift */; };
+		BB7BD56C23ABD5AC00FE63BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB7BD56A23ABD5AC00FE63BF /* Main.storyboard */; };
+		BB7BD56F23ABD5AC00FE63BF /* AlamoFireStudy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BB7BD56D23ABD5AC00FE63BF /* AlamoFireStudy.xcdatamodeld */; };
+		BB7BD57123ABD5AE00FE63BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB7BD57023ABD5AE00FE63BF /* Assets.xcassets */; };
+		BB7BD57423ABD5AE00FE63BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB7BD57223ABD5AE00FE63BF /* LaunchScreen.storyboard */; };
+		BB7BD57F23ABD5AE00FE63BF /* AlamoFireStudyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7BD57E23ABD5AE00FE63BF /* AlamoFireStudyTests.swift */; };
+		BB7BD58B23ABD98000FE63BF /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB7BD58A23ABD98000FE63BF /* Alamofire.framework */; };
+		BB7BD58C23ABD98000FE63BF /* Alamofire.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = BB7BD58A23ABD98000FE63BF /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		BB7BD59023ABD9F500FE63BF /* NetworkingClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB7BD58F23ABD9F500FE63BF /* NetworkingClient.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BB7BD57B23ABD5AE00FE63BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BB7BD55923ABD5AC00FE63BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BB7BD56023ABD5AC00FE63BF;
+			remoteInfo = AlamoFireStudy;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		BB7BD58D23ABD98000FE63BF /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				BB7BD58C23ABD98000FE63BF /* Alamofire.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		BB7BD56123ABD5AC00FE63BF /* AlamoFireStudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlamoFireStudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB7BD56423ABD5AC00FE63BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BB7BD56623ABD5AC00FE63BF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		BB7BD56823ABD5AC00FE63BF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BB7BD56B23ABD5AC00FE63BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BB7BD56E23ABD5AC00FE63BF /* AlamoFireStudy.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AlamoFireStudy.xcdatamodel; sourceTree = "<group>"; };
+		BB7BD57023ABD5AE00FE63BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BB7BD57323ABD5AE00FE63BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BB7BD57523ABD5AE00FE63BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB7BD57A23ABD5AE00FE63BF /* AlamoFireStudyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AlamoFireStudyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BB7BD57E23ABD5AE00FE63BF /* AlamoFireStudyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlamoFireStudyTests.swift; sourceTree = "<group>"; };
+		BB7BD58023ABD5AE00FE63BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB7BD58A23ABD98000FE63BF /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
+		BB7BD58F23ABD9F500FE63BF /* NetworkingClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingClient.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BB7BD55E23ABD5AC00FE63BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB7BD58B23ABD98000FE63BF /* Alamofire.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BB7BD57723ABD5AE00FE63BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BB7BD55823ABD5AC00FE63BF = {
+			isa = PBXGroup;
+			children = (
+				BB7BD56323ABD5AC00FE63BF /* AlamoFireStudy */,
+				BB7BD57D23ABD5AE00FE63BF /* AlamoFireStudyTests */,
+				BB7BD56223ABD5AC00FE63BF /* Products */,
+				BB7BD58923ABD98000FE63BF /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		BB7BD56223ABD5AC00FE63BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BB7BD56123ABD5AC00FE63BF /* AlamoFireStudy.app */,
+				BB7BD57A23ABD5AE00FE63BF /* AlamoFireStudyTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BB7BD56323ABD5AC00FE63BF /* AlamoFireStudy */ = {
+			isa = PBXGroup;
+			children = (
+				BB7BD56423ABD5AC00FE63BF /* AppDelegate.swift */,
+				BB7BD56623ABD5AC00FE63BF /* SceneDelegate.swift */,
+				BB7BD56823ABD5AC00FE63BF /* ViewController.swift */,
+				BB7BD56A23ABD5AC00FE63BF /* Main.storyboard */,
+				BB7BD57023ABD5AE00FE63BF /* Assets.xcassets */,
+				BB7BD57223ABD5AE00FE63BF /* LaunchScreen.storyboard */,
+				BB7BD57523ABD5AE00FE63BF /* Info.plist */,
+				BB7BD56D23ABD5AC00FE63BF /* AlamoFireStudy.xcdatamodeld */,
+				BB7BD58F23ABD9F500FE63BF /* NetworkingClient.swift */,
+			);
+			path = AlamoFireStudy;
+			sourceTree = "<group>";
+		};
+		BB7BD57D23ABD5AE00FE63BF /* AlamoFireStudyTests */ = {
+			isa = PBXGroup;
+			children = (
+				BB7BD57E23ABD5AE00FE63BF /* AlamoFireStudyTests.swift */,
+				BB7BD58023ABD5AE00FE63BF /* Info.plist */,
+			);
+			path = AlamoFireStudyTests;
+			sourceTree = "<group>";
+		};
+		BB7BD58923ABD98000FE63BF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BB7BD58A23ABD98000FE63BF /* Alamofire.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BB7BD56023ABD5AC00FE63BF /* AlamoFireStudy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BB7BD58323ABD5AE00FE63BF /* Build configuration list for PBXNativeTarget "AlamoFireStudy" */;
+			buildPhases = (
+				BB7BD55D23ABD5AC00FE63BF /* Sources */,
+				BB7BD55E23ABD5AC00FE63BF /* Frameworks */,
+				BB7BD55F23ABD5AC00FE63BF /* Resources */,
+				BB7BD58D23ABD98000FE63BF /* Embed Frameworks */,
+				BB7BD58E23ABD9A000FE63BF /* Carthage Copy Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AlamoFireStudy;
+			productName = AlamoFireStudy;
+			productReference = BB7BD56123ABD5AC00FE63BF /* AlamoFireStudy.app */;
+			productType = "com.apple.product-type.application";
+		};
+		BB7BD57923ABD5AE00FE63BF /* AlamoFireStudyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BB7BD58623ABD5AE00FE63BF /* Build configuration list for PBXNativeTarget "AlamoFireStudyTests" */;
+			buildPhases = (
+				BB7BD57623ABD5AE00FE63BF /* Sources */,
+				BB7BD57723ABD5AE00FE63BF /* Frameworks */,
+				BB7BD57823ABD5AE00FE63BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BB7BD57C23ABD5AE00FE63BF /* PBXTargetDependency */,
+			);
+			name = AlamoFireStudyTests;
+			productName = AlamoFireStudyTests;
+			productReference = BB7BD57A23ABD5AE00FE63BF /* AlamoFireStudyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BB7BD55923ABD5AC00FE63BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1120;
+				LastUpgradeCheck = 1120;
+				ORGANIZATIONNAME = "Raphael Barbosa";
+				TargetAttributes = {
+					BB7BD56023ABD5AC00FE63BF = {
+						CreatedOnToolsVersion = 11.2.1;
+					};
+					BB7BD57923ABD5AE00FE63BF = {
+						CreatedOnToolsVersion = 11.2.1;
+						TestTargetID = BB7BD56023ABD5AC00FE63BF;
+					};
+				};
+			};
+			buildConfigurationList = BB7BD55C23ABD5AC00FE63BF /* Build configuration list for PBXProject "AlamoFireStudy" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BB7BD55823ABD5AC00FE63BF;
+			productRefGroup = BB7BD56223ABD5AC00FE63BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BB7BD56023ABD5AC00FE63BF /* AlamoFireStudy */,
+				BB7BD57923ABD5AE00FE63BF /* AlamoFireStudyTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BB7BD55F23ABD5AC00FE63BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB7BD57423ABD5AE00FE63BF /* LaunchScreen.storyboard in Resources */,
+				BB7BD57123ABD5AE00FE63BF /* Assets.xcassets in Resources */,
+				BB7BD56C23ABD5AC00FE63BF /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BB7BD57823ABD5AE00FE63BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		BB7BD58E23ABD9A000FE63BF /* Carthage Copy Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework",
+			);
+			name = "Carthage Copy Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n/usr/local/bin/carthage copy-frameworks\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BB7BD55D23ABD5AC00FE63BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB7BD56F23ABD5AC00FE63BF /* AlamoFireStudy.xcdatamodeld in Sources */,
+				BB7BD59023ABD9F500FE63BF /* NetworkingClient.swift in Sources */,
+				BB7BD56923ABD5AC00FE63BF /* ViewController.swift in Sources */,
+				BB7BD56523ABD5AC00FE63BF /* AppDelegate.swift in Sources */,
+				BB7BD56723ABD5AC00FE63BF /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BB7BD57623ABD5AE00FE63BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BB7BD57F23ABD5AE00FE63BF /* AlamoFireStudyTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BB7BD57C23ABD5AE00FE63BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BB7BD56023ABD5AC00FE63BF /* AlamoFireStudy */;
+			targetProxy = BB7BD57B23ABD5AE00FE63BF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		BB7BD56A23ABD5AC00FE63BF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BB7BD56B23ABD5AC00FE63BF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		BB7BD57223ABD5AE00FE63BF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BB7BD57323ABD5AE00FE63BF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BB7BD58123ABD5AE00FE63BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BB7BD58223ABD5AE00FE63BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BB7BD58423ABD5AE00FE63BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				INFOPLIST_FILE = AlamoFireStudy/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.raphaelbarbosaqwerty.AlamoFireStudy;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BB7BD58523ABD5AE00FE63BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				INFOPLIST_FILE = AlamoFireStudy/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.raphaelbarbosaqwerty.AlamoFireStudy;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		BB7BD58723ABD5AE00FE63BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = AlamoFireStudyTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.raphaelbarbosaqwerty.AlamoFireStudyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AlamoFireStudy.app/AlamoFireStudy";
+			};
+			name = Debug;
+		};
+		BB7BD58823ABD5AE00FE63BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = AlamoFireStudyTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.raphaelbarbosaqwerty.AlamoFireStudyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AlamoFireStudy.app/AlamoFireStudy";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BB7BD55C23ABD5AC00FE63BF /* Build configuration list for PBXProject "AlamoFireStudy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BB7BD58123ABD5AE00FE63BF /* Debug */,
+				BB7BD58223ABD5AE00FE63BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BB7BD58323ABD5AE00FE63BF /* Build configuration list for PBXNativeTarget "AlamoFireStudy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BB7BD58423ABD5AE00FE63BF /* Debug */,
+				BB7BD58523ABD5AE00FE63BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BB7BD58623ABD5AE00FE63BF /* Build configuration list for PBXNativeTarget "AlamoFireStudyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BB7BD58723ABD5AE00FE63BF /* Debug */,
+				BB7BD58823ABD5AE00FE63BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		BB7BD56D23ABD5AC00FE63BF /* AlamoFireStudy.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				BB7BD56E23ABD5AC00FE63BF /* AlamoFireStudy.xcdatamodel */,
+			);
+			currentVersion = BB7BD56E23ABD5AC00FE63BF /* AlamoFireStudy.xcdatamodel */;
+			path = AlamoFireStudy.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = BB7BD55923ABD5AC00FE63BF /* Project object */;
+}
