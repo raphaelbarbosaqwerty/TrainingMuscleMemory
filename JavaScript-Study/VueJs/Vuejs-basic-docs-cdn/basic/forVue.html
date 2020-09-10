@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>VueJS Study</title>
+        <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    </head>
+    <body>
+        <div id="app-4">
+            For:
+            <ol>
+                <li v-for="todo in todos">
+                    {{ todo.text }}
+                </li>
+            </ol>
+        </div>
+
+        <script>
+            var app4 = new Vue({
+                el: '#app-4',
+                data: {
+                    todos: [
+                        { text: 'Learning JavaScript' },
+                        { text: 'Learning Vue' },
+                        { text: 'Creating something amazing!' },
+                    ]
+                }
+            })
+        </script>
+    </body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/ghost/Csharp/Exercicio/Banco&Conta/Banco&Conta.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

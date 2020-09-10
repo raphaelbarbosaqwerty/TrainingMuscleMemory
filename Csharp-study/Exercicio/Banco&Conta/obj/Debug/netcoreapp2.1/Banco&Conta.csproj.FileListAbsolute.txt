@@ -1,0 +1,11 @@
+/home/ghost/Csharp/Exercicio/Banco&Conta/bin/Debug/netcoreapp2.1/Banco&Conta.deps.json
+/home/ghost/Csharp/Exercicio/Banco&Conta/bin/Debug/netcoreapp2.1/Banco&Conta.runtimeconfig.json
+/home/ghost/Csharp/Exercicio/Banco&Conta/bin/Debug/netcoreapp2.1/Banco&Conta.runtimeconfig.dev.json
+/home/ghost/Csharp/Exercicio/Banco&Conta/bin/Debug/netcoreapp2.1/Banco&Conta.dll
+/home/ghost/Csharp/Exercicio/Banco&Conta/bin/Debug/netcoreapp2.1/Banco&Conta.pdb
+/home/ghost/Csharp/Exercicio/Banco&Conta/obj/Debug/netcoreapp2.1/Banco&Conta.csprojAssemblyReference.cache
+/home/ghost/Csharp/Exercicio/Banco&Conta/obj/Debug/netcoreapp2.1/Banco&Conta.csproj.CoreCompileInputs.cache
+/home/ghost/Csharp/Exercicio/Banco&Conta/obj/Debug/netcoreapp2.1/Banco&Conta.AssemblyInfoInputs.cache
+/home/ghost/Csharp/Exercicio/Banco&Conta/obj/Debug/netcoreapp2.1/Banco&Conta.AssemblyInfo.cs
+/home/ghost/Csharp/Exercicio/Banco&Conta/obj/Debug/netcoreapp2.1/Banco&Conta.dll
+/home/ghost/Csharp/Exercicio/Banco&Conta/obj/Debug/netcoreapp2.1/Banco&Conta.pdb

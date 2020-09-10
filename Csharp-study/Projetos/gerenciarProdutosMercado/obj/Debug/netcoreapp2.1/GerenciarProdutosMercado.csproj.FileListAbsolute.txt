@@ -1,0 +1,11 @@
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/bin/Debug/netcoreapp2.1/GerenciarProdutosMercado.deps.json
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/bin/Debug/netcoreapp2.1/GerenciarProdutosMercado.runtimeconfig.json
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/bin/Debug/netcoreapp2.1/GerenciarProdutosMercado.runtimeconfig.dev.json
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/bin/Debug/netcoreapp2.1/GerenciarProdutosMercado.dll
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/bin/Debug/netcoreapp2.1/GerenciarProdutosMercado.pdb
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/obj/Debug/netcoreapp2.1/GerenciarProdutosMercado.csprojAssemblyReference.cache
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/obj/Debug/netcoreapp2.1/GerenciarProdutosMercado.csproj.CoreCompileInputs.cache
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/obj/Debug/netcoreapp2.1/GerenciarProdutosMercado.AssemblyInfoInputs.cache
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/obj/Debug/netcoreapp2.1/GerenciarProdutosMercado.AssemblyInfo.cs
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/obj/Debug/netcoreapp2.1/GerenciarProdutosMercado.dll
+/home/ghost/Csharp/Projetos/GerenciarProdutosMercado/obj/Debug/netcoreapp2.1/GerenciarProdutosMercado.pdb

@@ -1,0 +1,11 @@
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/bin/Debug/netcoreapp2.2/PoderHabito.deps.json
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/bin/Debug/netcoreapp2.2/PoderHabito.runtimeconfig.json
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/bin/Debug/netcoreapp2.2/PoderHabito.runtimeconfig.dev.json
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/bin/Debug/netcoreapp2.2/PoderHabito.dll
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/bin/Debug/netcoreapp2.2/PoderHabito.pdb
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/obj/Debug/netcoreapp2.2/PoderHabito.csprojAssemblyReference.cache
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/obj/Debug/netcoreapp2.2/PoderHabito.csproj.CoreCompileInputs.cache
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/obj/Debug/netcoreapp2.2/PoderHabito.AssemblyInfoInputs.cache
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/obj/Debug/netcoreapp2.2/PoderHabito.AssemblyInfo.cs
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/obj/Debug/netcoreapp2.2/PoderHabito.dll
+/home/**user**/.git/Csharp-study/Projetos/PoderHabito/obj/Debug/netcoreapp2.2/PoderHabito.pdb

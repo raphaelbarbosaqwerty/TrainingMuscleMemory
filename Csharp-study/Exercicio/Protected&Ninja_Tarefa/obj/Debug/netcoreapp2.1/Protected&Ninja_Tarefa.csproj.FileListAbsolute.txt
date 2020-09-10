@@ -1,0 +1,11 @@
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/obj/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.csprojAssemblyReference.cache
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/obj/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.csproj.CoreCompileInputs.cache
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/obj/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.AssemblyInfoInputs.cache
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/obj/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.AssemblyInfo.cs
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/bin/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.deps.json
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/bin/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.runtimeconfig.json
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/bin/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.runtimeconfig.dev.json
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/bin/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.dll
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/bin/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.pdb
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/obj/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.dll
+/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/obj/Debug/netcoreapp2.1/Protected&Ninja_Tarefa.pdb

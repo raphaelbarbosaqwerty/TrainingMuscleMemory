@@ -1,0 +1,11 @@
+/home/ghost/.git/aulaEx/c#/corridaCavalos/bin/Debug/netcoreapp2.2/corridaCavalos.deps.json
+/home/ghost/.git/aulaEx/c#/corridaCavalos/bin/Debug/netcoreapp2.2/corridaCavalos.runtimeconfig.json
+/home/ghost/.git/aulaEx/c#/corridaCavalos/bin/Debug/netcoreapp2.2/corridaCavalos.runtimeconfig.dev.json
+/home/ghost/.git/aulaEx/c#/corridaCavalos/bin/Debug/netcoreapp2.2/corridaCavalos.dll
+/home/ghost/.git/aulaEx/c#/corridaCavalos/bin/Debug/netcoreapp2.2/corridaCavalos.pdb
+/home/ghost/.git/aulaEx/c#/corridaCavalos/obj/Debug/netcoreapp2.2/corridaCavalos.csprojAssemblyReference.cache
+/home/ghost/.git/aulaEx/c#/corridaCavalos/obj/Debug/netcoreapp2.2/corridaCavalos.csproj.CoreCompileInputs.cache
+/home/ghost/.git/aulaEx/c#/corridaCavalos/obj/Debug/netcoreapp2.2/corridaCavalos.AssemblyInfoInputs.cache
+/home/ghost/.git/aulaEx/c#/corridaCavalos/obj/Debug/netcoreapp2.2/corridaCavalos.AssemblyInfo.cs
+/home/ghost/.git/aulaEx/c#/corridaCavalos/obj/Debug/netcoreapp2.2/corridaCavalos.dll
+/home/ghost/.git/aulaEx/c#/corridaCavalos/obj/Debug/netcoreapp2.2/corridaCavalos.pdb

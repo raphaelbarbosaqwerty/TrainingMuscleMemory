@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/ghost/Csharp/Exercicio/Protected&Ninja_Tarefa/Protected&Ninja_Tarefa.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+/home/ghost/Csharp/Estudo/Classe_Abstrata/bin/Debug/netcoreapp2.1/Classe_Abstrata.deps.json
+/home/ghost/Csharp/Estudo/Classe_Abstrata/bin/Debug/netcoreapp2.1/Classe_Abstrata.runtimeconfig.json
+/home/ghost/Csharp/Estudo/Classe_Abstrata/bin/Debug/netcoreapp2.1/Classe_Abstrata.runtimeconfig.dev.json
+/home/ghost/Csharp/Estudo/Classe_Abstrata/bin/Debug/netcoreapp2.1/Classe_Abstrata.dll
+/home/ghost/Csharp/Estudo/Classe_Abstrata/bin/Debug/netcoreapp2.1/Classe_Abstrata.pdb
+/home/ghost/Csharp/Estudo/Classe_Abstrata/obj/Debug/netcoreapp2.1/Classe_Abstrata.csprojAssemblyReference.cache
+/home/ghost/Csharp/Estudo/Classe_Abstrata/obj/Debug/netcoreapp2.1/Classe_Abstrata.csproj.CoreCompileInputs.cache
+/home/ghost/Csharp/Estudo/Classe_Abstrata/obj/Debug/netcoreapp2.1/Classe_Abstrata.AssemblyInfoInputs.cache
+/home/ghost/Csharp/Estudo/Classe_Abstrata/obj/Debug/netcoreapp2.1/Classe_Abstrata.AssemblyInfo.cs
+/home/ghost/Csharp/Estudo/Classe_Abstrata/obj/Debug/netcoreapp2.1/Classe_Abstrata.dll
+/home/ghost/Csharp/Estudo/Classe_Abstrata/obj/Debug/netcoreapp2.1/Classe_Abstrata.pdb

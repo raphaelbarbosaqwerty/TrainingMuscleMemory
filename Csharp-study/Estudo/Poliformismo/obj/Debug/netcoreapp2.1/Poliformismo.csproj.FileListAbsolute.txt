@@ -1,0 +1,11 @@
+/home/ghost/Csharp/Estudo/Poliformismo/bin/Debug/netcoreapp2.1/Poliformismo.deps.json
+/home/ghost/Csharp/Estudo/Poliformismo/bin/Debug/netcoreapp2.1/Poliformismo.runtimeconfig.json
+/home/ghost/Csharp/Estudo/Poliformismo/bin/Debug/netcoreapp2.1/Poliformismo.runtimeconfig.dev.json
+/home/ghost/Csharp/Estudo/Poliformismo/bin/Debug/netcoreapp2.1/Poliformismo.dll
+/home/ghost/Csharp/Estudo/Poliformismo/bin/Debug/netcoreapp2.1/Poliformismo.pdb
+/home/ghost/Csharp/Estudo/Poliformismo/obj/Debug/netcoreapp2.1/Poliformismo.csprojAssemblyReference.cache
+/home/ghost/Csharp/Estudo/Poliformismo/obj/Debug/netcoreapp2.1/Poliformismo.csproj.CoreCompileInputs.cache
+/home/ghost/Csharp/Estudo/Poliformismo/obj/Debug/netcoreapp2.1/Poliformismo.AssemblyInfoInputs.cache
+/home/ghost/Csharp/Estudo/Poliformismo/obj/Debug/netcoreapp2.1/Poliformismo.AssemblyInfo.cs
+/home/ghost/Csharp/Estudo/Poliformismo/obj/Debug/netcoreapp2.1/Poliformismo.dll
+/home/ghost/Csharp/Estudo/Poliformismo/obj/Debug/netcoreapp2.1/Poliformismo.pdb

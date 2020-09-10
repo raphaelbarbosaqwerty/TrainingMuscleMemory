@@ -1,0 +1,11 @@
+/home/ghost/Csharp/Projetos/SistemadeEventos/bin/Debug/netcoreapp2.1/SistemadeEventos.deps.json
+/home/ghost/Csharp/Projetos/SistemadeEventos/bin/Debug/netcoreapp2.1/SistemadeEventos.runtimeconfig.json
+/home/ghost/Csharp/Projetos/SistemadeEventos/bin/Debug/netcoreapp2.1/SistemadeEventos.runtimeconfig.dev.json
+/home/ghost/Csharp/Projetos/SistemadeEventos/bin/Debug/netcoreapp2.1/SistemadeEventos.dll
+/home/ghost/Csharp/Projetos/SistemadeEventos/bin/Debug/netcoreapp2.1/SistemadeEventos.pdb
+/home/ghost/Csharp/Projetos/SistemadeEventos/obj/Debug/netcoreapp2.1/SistemadeEventos.csprojAssemblyReference.cache
+/home/ghost/Csharp/Projetos/SistemadeEventos/obj/Debug/netcoreapp2.1/SistemadeEventos.csproj.CoreCompileInputs.cache
+/home/ghost/Csharp/Projetos/SistemadeEventos/obj/Debug/netcoreapp2.1/SistemadeEventos.AssemblyInfoInputs.cache
+/home/ghost/Csharp/Projetos/SistemadeEventos/obj/Debug/netcoreapp2.1/SistemadeEventos.AssemblyInfo.cs
+/home/ghost/Csharp/Projetos/SistemadeEventos/obj/Debug/netcoreapp2.1/SistemadeEventos.dll
+/home/ghost/Csharp/Projetos/SistemadeEventos/obj/Debug/netcoreapp2.1/SistemadeEventos.pdb

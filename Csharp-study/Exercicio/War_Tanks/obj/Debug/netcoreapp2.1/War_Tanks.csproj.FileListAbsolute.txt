@@ -1,0 +1,11 @@
+/home/ghost/Csharp/Exercicio/War_Tanks/bin/Debug/netcoreapp2.1/War_Tanks.deps.json
+/home/ghost/Csharp/Exercicio/War_Tanks/bin/Debug/netcoreapp2.1/War_Tanks.runtimeconfig.json
+/home/ghost/Csharp/Exercicio/War_Tanks/bin/Debug/netcoreapp2.1/War_Tanks.runtimeconfig.dev.json
+/home/ghost/Csharp/Exercicio/War_Tanks/bin/Debug/netcoreapp2.1/War_Tanks.dll
+/home/ghost/Csharp/Exercicio/War_Tanks/bin/Debug/netcoreapp2.1/War_Tanks.pdb
+/home/ghost/Csharp/Exercicio/War_Tanks/obj/Debug/netcoreapp2.1/War_Tanks.csprojAssemblyReference.cache
+/home/ghost/Csharp/Exercicio/War_Tanks/obj/Debug/netcoreapp2.1/War_Tanks.csproj.CoreCompileInputs.cache
+/home/ghost/Csharp/Exercicio/War_Tanks/obj/Debug/netcoreapp2.1/War_Tanks.AssemblyInfoInputs.cache
+/home/ghost/Csharp/Exercicio/War_Tanks/obj/Debug/netcoreapp2.1/War_Tanks.AssemblyInfo.cs
+/home/ghost/Csharp/Exercicio/War_Tanks/obj/Debug/netcoreapp2.1/War_Tanks.dll
+/home/ghost/Csharp/Exercicio/War_Tanks/obj/Debug/netcoreapp2.1/War_Tanks.pdb

@@ -1,0 +1,11 @@
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/bin/Debug/netcoreapp2.1/Jogador&Inimigo.deps.json
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/bin/Debug/netcoreapp2.1/Jogador&Inimigo.runtimeconfig.json
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/bin/Debug/netcoreapp2.1/Jogador&Inimigo.runtimeconfig.dev.json
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/bin/Debug/netcoreapp2.1/Jogador&Inimigo.dll
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/bin/Debug/netcoreapp2.1/Jogador&Inimigo.pdb
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/obj/Debug/netcoreapp2.1/Jogador&Inimigo.csprojAssemblyReference.cache
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/obj/Debug/netcoreapp2.1/Jogador&Inimigo.csproj.CoreCompileInputs.cache
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/obj/Debug/netcoreapp2.1/Jogador&Inimigo.AssemblyInfoInputs.cache
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/obj/Debug/netcoreapp2.1/Jogador&Inimigo.AssemblyInfo.cs
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/obj/Debug/netcoreapp2.1/Jogador&Inimigo.dll
+/home/ghost/Csharp/Exercicio/Jogador&Inimigo/obj/Debug/netcoreapp2.1/Jogador&Inimigo.pdb
