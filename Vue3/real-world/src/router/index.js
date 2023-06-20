@@ -39,6 +39,26 @@ const router = createRouter({
         }
       ]
     },
+    // {
+    //   path: '/event/:id',
+    //   redirect: () => {
+    //     return { name: 'event-details' }
+    //   },
+    //   children: [
+    //     {
+    //       path: '/register',
+    //       redirect: () => {
+    //         return { name: 'event-register' }
+    //       }
+    //     },
+    //     {
+    //       path: '/edit',
+    //       redirect: () => {
+    //         return { name: 'event-edit' }
+    //       }
+    //     }
+    //   ]
+    // },
     {
       path: '/about',
       name: 'about',
